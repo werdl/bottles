@@ -1,0 +1,1 @@
+class q {static String z(int a) {return a==1?" bottle":" bottles";}public static void main(String[] a) {String b=" of beer";int x=100;while(x-->1) {String c=z(x);System.out.printf("%d%s%s %d%s%s, take one down pass it around,%d%s%s on the wall ",x,c,b,x,c,b,x==1?0:x-1,z(x-1),b);}}}
