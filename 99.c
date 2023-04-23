@@ -1,0 +1,2 @@
+#define z(a)a==1?" bottle":" bottles"
+x;char*b=" of beer";main(){x=100;while(x-->1){char*c=z(x);printf("%d%s%s %d%s%s, take one down pass it around,%d%s%s on the wall ",x,c,b,x,c,b,x==1?0:x-1,z(x-1),b);}}
