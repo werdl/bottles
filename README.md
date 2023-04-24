@@ -5,5 +5,5 @@
 - [Java](99.java) - 277 chars
 - [C89](99.c) - 204 chars
 - [Ruby](99.rb) - 162 chars
-- [JS](99.js) - 160 chars
+- [JS](99.js) - 156 chars
 - **[Python3](99.py) - 145 chars (help from [uimaxbai](http://github.com/uimaxbai))**
